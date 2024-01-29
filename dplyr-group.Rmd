@@ -26,7 +26,7 @@ This is an [R Markdown](https://rmarkdown.rstudio.com/) document.  Follow the li
 library(tidyverse)
 ```
 
-For this session, we're learning three additional dplyr functions: group_by, summarize, and arrange.
+For this session, we're learning four additional dplyr functions: group_by, summarize, across, and arrange.
 
 ## Data
 
